@@ -1,6 +1,8 @@
 related
 =======
 
+**This was updated on 14-June-2018, and should now be compatible with R v3.5 and higher. Some installation instructions have changed, so please see the tutorial.**
+
 Here you can download files for the related package.
 
 GenotypeData.txt = example genotype file that can be used for testing.
